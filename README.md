@@ -1,11 +1,11 @@
 <h1 align="center">Hello and Welcome 👋, I'm Gonzalo Asencio</h1>
-<h2 align="center">I'm a Developer, Instructor, Mentor, and Content Creator</h2>
 <h3 align="center">A passionate Video Games developer from Argentina</h3>
+<h2 align="center">I'm a Developer, Instructor, Mentor, and Content Creator</h2>
 
-👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
-🌱 I'm currently growing my programming skills
-📚 I'm constantly learning new skills and striving for progress
-🏆 Goal: Become a professional game developer
+- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
+- 🌱 I'm currently growing my programming skills
+- 📚 I'm constantly learning new skills and striving for progress
+- 🏆 Goal: Become a professional game developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
